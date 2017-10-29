@@ -1,0 +1,21 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Purescript URL shortener",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "purescript",
+    "url-shortener"
+  ],
+  "author": "Dennis Heckman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
